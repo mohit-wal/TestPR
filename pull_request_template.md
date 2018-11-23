@@ -31,7 +31,7 @@ Test all that apply
 You can duplicate the App section to support more modules"
 
 #### App
-- [ ] Does this affect the App?
+Does this affect the App?
 - [ ] No
 - [ ] Yes:
   - [ ] Tested Authentication
